@@ -1,12 +1,10 @@
 # product-recommender-system
 
--
 ###In Python only
--
+
 ####Task:
 - Use association rules (Arpiori Algorithm) to predict customer next-to-purchase preference
 
--
 ####Approach:
 
 - We consider the 1374 customers who have at least 100 orders and use their transaction data to analyze. 
